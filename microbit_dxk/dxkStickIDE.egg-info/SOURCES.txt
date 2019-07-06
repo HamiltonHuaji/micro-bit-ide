@@ -1,0 +1,8 @@
+README.md
+setup.py
+dxkStickIDE.egg-info/PKG-INFO
+dxkStickIDE.egg-info/SOURCES.txt
+dxkStickIDE.egg-info/dependency_links.txt
+dxkStickIDE.egg-info/requires.txt
+dxkStickIDE.egg-info/top_level.txt
+pagtest/__init__.py
